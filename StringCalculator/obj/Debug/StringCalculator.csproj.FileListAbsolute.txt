@@ -1,0 +1,5 @@
+c:\users\tim.burkhart\documents\visual studio 2010\Projects\StringCalculator\StringCalculator\bin\Debug\StringCalculator.dll
+c:\users\tim.burkhart\documents\visual studio 2010\Projects\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+c:\users\tim.burkhart\documents\visual studio 2010\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculator.dll
+c:\users\tim.burkhart\documents\visual studio 2010\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb
+C:\Users\Tim.Burkhart\Documents\Visual Studio 2010\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csprojResolveAssemblyReference.cache
